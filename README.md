@@ -1,4 +1,4 @@
-# My Userscripts
+# Fancy Userscripts
 
 A collection of simple, lightweight userscripts by caniyo.
 
