@@ -8,6 +8,10 @@ A collection of simple, lightweight userscripts by caniyo.
   - Works on AO3 and all other websites
   - Privacy-friendly, no tracking
 
+- **[Twitch Error 3000 Auto-Reload](./twitch-error-3000-auto-reload/)** – Automatically reloads Twitch when Error 3000 occurs
+
+- **[YouTube Link Enhancer](./youtube-link-enhancer/)** – Enhances YouTube links with additional functionality
+
 ## Installation
 
 Install a userscript manager first:
